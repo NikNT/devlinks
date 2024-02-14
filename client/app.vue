@@ -1,7 +1,3 @@
 <template>
-  <div>
-    <Index />
-  </div>
+  <NuxtPage />
 </template>
-
-<script></script>
